@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Prathamesh
 
 Welcome to my GitHub profile! I'm a developer passionate about **Linux**, **Android development**, and **Machine Learning**. Here's a bit about what I work on and what you can expect from my repositories.
 
